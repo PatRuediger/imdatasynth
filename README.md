@@ -1,6 +1,7 @@
 # ImDataSynth
 A GUI to control a blender instance wrapped inside a jupyter-notebook kernel. 
 
+The required data files and tutrial movies can be downloaded here: https://seafile.rlp.net/d/a582fd75539f44998df7/
 
 ## Setup
 1. Install python 3.10 from https://www.python.org 
@@ -36,3 +37,6 @@ pip install Windows-curses
 
 ## Known Bugs
 - Add bug if you find any
+
+## Special Thanks
+A special thanks for the gui development to my colleague Edwin.
