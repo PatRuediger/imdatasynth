@@ -1,0 +1,16 @@
+{
+    "object_name": "",
+    "labelID": "",
+    "source": "",
+    "cam_resolution": [],
+    "color_depth": 0,
+    "file_format": "",
+    "categories": [],
+    "attributes": [],
+    "variantNum": "",
+    "create_depth_normal": false,
+    "use_base_plate": false,
+    "device": "",
+    "compute_device_type": "",
+    "datasets": {}
+    }
